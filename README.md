@@ -1,1 +1,1 @@
-.
+println!("Goodbye, World!");
